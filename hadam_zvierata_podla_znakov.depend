@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1673147282 source:c:\users\kocak\desktop\programming\c++ programming\hadam_zvierata_podla_znakov\main.cpp
+	<iostream>
+	<cctype>
+	"strom.h"
+
+1619730796 c:\users\kocak\desktop\programming\c++ programming\hadam_zvierata_podla_znakov\strom.h
+	<string>
+
